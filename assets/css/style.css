@@ -1,0 +1,15 @@
+.navcolor {
+    background-color: rgb(0, 255, 221);
+}
+
+.Einstein {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+    padding: 20px 30px 20px 30px;
+}
+
+.projects {
+    color: aqua;
+    padding: 0px 15px;
+}
